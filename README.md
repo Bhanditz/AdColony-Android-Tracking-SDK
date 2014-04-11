@@ -2,7 +2,7 @@
 
 AdColony-Android-Advertiser-SDK
 ===============================
-The AdColony Ad SDK provides advertisers with a mechanism for gauging the effectiveness of AdColony ad campaigns by recording and reporting install events, session data, in-app-purchase transactions, as well as post-install event data.   
+The AdColony Ad SDK provides advertisers with a mechanism for gauging the effectiveness of AdColony ad campaigns by recording and reporting install events, session data, as well as post-install event data.   
 
 Advertisers who wish to buy advertising on the AdColony network on a Cost-Per-Install (CPI) basis must integrate either the AdColony Ad SDK or the AdColony Publisher SDK into the title being advertised, and must ensure the SDK is being initialized in all instances. 
 
